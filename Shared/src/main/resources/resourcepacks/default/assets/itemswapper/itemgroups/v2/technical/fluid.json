@@ -22,6 +22,7 @@
 			  "minecraft:honey_block",
 			  "minecraft:bucket",
 			  "minecraft:water_bucket",
+			  "minecraft:lava_bucket",
 			  "minecraft:sponge",
 			  "minecraft:wet_sponge"
 			],
